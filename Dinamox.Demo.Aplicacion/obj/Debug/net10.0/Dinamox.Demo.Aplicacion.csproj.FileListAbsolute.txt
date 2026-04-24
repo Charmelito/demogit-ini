@@ -1,0 +1,11 @@
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\bin\Debug\net10.0\Dinamox.Demo.Aplicacion.deps.json
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\bin\Debug\net10.0\Dinamox.Demo.Aplicacion.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\bin\Debug\net10.0\Dinamox.Demo.Aplicacion.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\Dinamox.Demo.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\Dinamox.Demo.Aplicacion.AssemblyInfoInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\Dinamox.Demo.Aplicacion.AssemblyInfo.cs
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\Dinamox.Demo.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\Dinamox.Demo.Aplicacion.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\refint\Dinamox.Demo.Aplicacion.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\Dinamox.Demo.Aplicacion.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Aplicacion\obj\Debug\net10.0\ref\Dinamox.Demo.Aplicacion.dll

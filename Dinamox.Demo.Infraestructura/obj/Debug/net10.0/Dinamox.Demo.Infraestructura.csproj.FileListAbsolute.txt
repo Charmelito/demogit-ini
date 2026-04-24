@@ -1,0 +1,14 @@
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\bin\Debug\net10.0\Dinamox.Demo.Infraestructura.deps.json
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\bin\Debug\net10.0\Dinamox.Demo.Infraestructura.runtimeconfig.json
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\bin\Debug\net10.0\Dinamox.Demo.Infraestructura.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\bin\Debug\net10.0\Dinamox.Demo.Infraestructura.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.csproj.AssemblyReference.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.AssemblyInfoInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.AssemblyInfo.cs
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\refint\Dinamox.Demo.Infraestructura.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\Dinamox.Demo.Infraestructura.genruntimeconfig.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Infraestructura\obj\Debug\net10.0\ref\Dinamox.Demo.Infraestructura.dll

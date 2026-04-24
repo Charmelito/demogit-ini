@@ -1,0 +1,17 @@
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\bin\Debug\net10.0\Dinamox.Demo.Persistencia.deps.json
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\bin\Debug\net10.0\Dinamox.Demo.Persistencia.runtimeconfig.json
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\bin\Debug\net10.0\Dinamox.Demo.Persistencia.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\bin\Debug\net10.0\Dinamox.Demo.Persistencia.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.csproj.AssemblyReference.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.AssemblyInfoInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.AssemblyInfo.cs
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.csproj.CoreCompileInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\refint\Dinamox.Demo.Persistencia.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox.Demo.Persistencia.genruntimeconfig.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\ref\Dinamox.Demo.Persistencia.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\bin\Debug\net10.0\Dinamox.Demo.Dominio.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\bin\Debug\net10.0\Dinamox.Demo.Dominio.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Persistencia\obj\Debug\net10.0\Dinamox..BCD3694C.Up2Date

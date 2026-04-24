@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/1-Core/">
+    <Project Path="Dinamox.Demo.Aplicacion/Dinamox.Demo.Aplicacion.csproj" />
+    <Project Path="Dinamox.Demo.Dominio/Dinamox.Demo.Dominio.csproj" />
+  </Folder>
+  <Folder Name="/2-Infraestructura/">
+    <Project Path="Dinamox.Demo.Persistencia/Dinamox.Demo.Persistencia.csproj" />
+  </Folder>
+  <Folder Name="/Api/">
+    <Project Path="Dinamox.Demo.Api/Dinamox.Demo.Api.csproj" />
+  </Folder>
+  <Project Path="Dinamox.Demo.Infraestructura/Dinamox.Demo.Infraestructura.csproj" />
+</Solution>

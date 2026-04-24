@@ -1,0 +1,11 @@
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\bin\Debug\net10.0\Dinamox.Demo.Dominio.deps.json
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\bin\Debug\net10.0\Dinamox.Demo.Dominio.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\bin\Debug\net10.0\Dinamox.Demo.Dominio.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\Dinamox.Demo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\Dinamox.Demo.Dominio.AssemblyInfoInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\Dinamox.Demo.Dominio.AssemblyInfo.cs
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\Dinamox.Demo.Dominio.csproj.CoreCompileInputs.cache
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\Dinamox.Demo.Dominio.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\refint\Dinamox.Demo.Dominio.dll
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\Dinamox.Demo.Dominio.pdb
+C:\Charmel\General\z-Misproyectos\Dinamox.Demo\Dinamox.Demo.Dominio\obj\Debug\net10.0\ref\Dinamox.Demo.Dominio.dll
