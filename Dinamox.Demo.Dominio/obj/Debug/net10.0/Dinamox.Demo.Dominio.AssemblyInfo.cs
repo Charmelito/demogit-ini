@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dinamox.Demo.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e6bd45eae55081cf01b89ad43ba702291dc3ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dinamox.Demo.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dinamox.Demo.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
